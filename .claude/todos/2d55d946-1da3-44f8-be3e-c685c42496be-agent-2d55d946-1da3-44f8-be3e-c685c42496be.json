@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Update design system (index.css) for course management theme",
+    "status": "completed",
+    "activeForm": "Updating design system for course management theme"
+  },
+  {
+    "content": "Create Dashboard page with course management UI",
+    "status": "completed",
+    "activeForm": "Creating Dashboard page"
+  },
+  {
+    "content": "Create course components (CourseCard, CourseForm, etc.)",
+    "status": "completed",
+    "activeForm": "Creating course components"
+  },
+  {
+    "content": "Create LivingApps data model for courses and categories",
+    "status": "completed",
+    "activeForm": "Creating LivingApps data model"
+  },
+  {
+    "content": "Wire up API and replace mock data",
+    "status": "completed",
+    "activeForm": "Wiring up API"
+  },
+  {
+    "content": "Build and deploy",
+    "status": "in_progress",
+    "activeForm": "Building and deploying"
+  }
+]
